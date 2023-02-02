@@ -1,2 +1,2 @@
 # fetchAssessment
-Take Home Asessment Consisting of CSV File Parsing
+Take Home Assessment Consisting of CSV File Parsing
