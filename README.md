@@ -5,7 +5,14 @@ Using Pandas
 
 Given Example of transaction.csv file and fetch.py file with code
 
-# * Run from command line using $python fetch.py [points]
-# python version 3.8.2
-# to install Pandas
-# input a number for points *
+
+Python version 3.11.1
+
+To install Python: python.org/downloads/
+cd to directory in command line with fetch.py + payerClass file
+
+To install Pandas : pip install pandas
+
+Run from command line using $python fetch.py [points]
+
+*input a number for points *
