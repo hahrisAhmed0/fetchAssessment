@@ -16,6 +16,6 @@ cd to directory in command line containing above files
 
 To install Pandas : pip install pandas
 
-Run from command line using $python fetch.py [points]
+Run from command line using python fetch.py [points]
 
 *input a number for points *
