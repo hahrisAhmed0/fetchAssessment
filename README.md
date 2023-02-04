@@ -9,6 +9,7 @@ Given Example of transaction.csv file and fetch.py file with code
 Python version 3.11.1
 
 To install Python: python.org/downloads/
+
 move fetch.py file and Transaction.py file to current directory where transactions.csv is located
 
 cd to directory in command line containing above files
